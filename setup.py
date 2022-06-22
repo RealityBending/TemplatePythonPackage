@@ -8,6 +8,7 @@ setup(
     author="Dominique Makowski",
     author_email="dom.makowski@gmail.com",
     license="MIT",
+    install_requires=["numpy", "pandas", "scipy", "matplotlib"],
     packages=find_packages(),
     zip_safe=False,
 )
