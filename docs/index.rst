@@ -5,3 +5,10 @@
 
 
 Welcome to the documentation, where you can find information.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Menu
+   :titlesonly:
+
+   examples
