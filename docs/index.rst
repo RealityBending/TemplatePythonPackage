@@ -12,4 +12,4 @@ Welcome to the documentation, where you can find information.
    :titlesonly:
 
    functions
-   examples
+   examples/index
