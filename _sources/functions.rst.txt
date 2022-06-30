@@ -1,7 +1,6 @@
 Functions
 -----------------------
 
-.. automodule:: TemplatePythonPackage
-   :members:
-
 .. autofunction:: TemplatePythonPackage.joke
+
+.. autofunction:: TemplatePythonPackage.anotherfunction
