@@ -8,5 +8,10 @@ def joke():
     -------
     str
         An awesome joke.
+
+    Examples
+    --------
+    >>> joke()
+
     """
     return "A very funny joke."
