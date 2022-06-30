@@ -17,7 +17,7 @@ def anotherfunction(x, y=0):
 
     Examples
     --------
-    .. ipython
+    .. ipython:: python
 
         anotherfunction(1, 2)
 
