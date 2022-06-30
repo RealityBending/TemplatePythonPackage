@@ -11,9 +11,9 @@ pip install https://github.com/RealityBending/TemplatePythonPackage/zipball/main
 ## Example
 
 ```python
-import TemplatePythonPackage as mypack
+import TemplatePythonPackage as mypackage
 
-mypack.joke()
+mypackage.joke()
 ```
 
 Other examples can be found here:

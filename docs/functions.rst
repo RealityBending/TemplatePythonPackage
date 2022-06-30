@@ -1,4 +1,4 @@
-Benchmarking Functions
+Functions
 -----------------------
 
 .. automodule:: TemplatePythonPackage

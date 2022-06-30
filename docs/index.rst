@@ -11,4 +11,5 @@ Welcome to the documentation, where you can find information.
    :caption: Menu
    :titlesonly:
 
+   functions
    examples
