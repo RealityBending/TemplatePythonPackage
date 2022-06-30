@@ -11,7 +11,9 @@ def joke():
 
     Examples
     --------
-    >>> joke()
+    .. ipython
+
+        joke()
 
     """
     return "A very funny joke."
