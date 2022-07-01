@@ -19,7 +19,7 @@ def anotherfunction(x, y=0):
     --------
     .. ipython:: python
 
-        anotherfunction(1, 2)
+        TemplatePythonPackage.anotherfunction(1, 2)
 
     """
     return x + y

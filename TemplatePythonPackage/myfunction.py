@@ -13,7 +13,7 @@ def joke():
     --------
     .. ipython:: python
 
-      joke()
+      TemplatePythonPackage.joke()
 
     """
     return "A very funny joke."
