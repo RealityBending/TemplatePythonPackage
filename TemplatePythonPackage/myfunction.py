@@ -13,9 +13,9 @@ def joke():
     --------
     .. ipython:: python
 
-      import TemplatePythonPackage
+        import TemplatePythonPackage
 
-      TemplatePythonPackage.joke()
+        TemplatePythonPackage.joke()
 
     """
     return "A very funny joke."

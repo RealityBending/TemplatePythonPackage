@@ -11,7 +11,7 @@ Welcome to the documentation, where you can find information.
 
     .. code-block:: console
 
-        pip install pip install https://github.com/RealityBending/TemplatePythonPackage/zipball/main
+        pip install https://github.com/RealityBending/TemplatePythonPackage/zipball/main
 
 
 
