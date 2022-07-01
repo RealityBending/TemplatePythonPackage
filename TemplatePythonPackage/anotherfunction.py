@@ -1,6 +1,5 @@
 def anotherfunction(x, y=0):
-    """Does something
-
+    """
     This function does something.
 
     Parameters
