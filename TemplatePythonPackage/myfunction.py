@@ -13,6 +13,8 @@ def joke():
     --------
     .. ipython:: python
 
+      import TemplatePythonPackage
+
       TemplatePythonPackage.joke()
 
     """
